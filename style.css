@@ -1,0 +1,32 @@
+/* shared common styles  */
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+
+nav, ul{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+.nav-title{
+    color: #181818;
+font-size: 45px;
+font-weight: 800;
+}
+.text-primary{
+    color: red;
+}
+li{
+    justify-content: center;
+    list-style: none;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: #474747;
+}
+.btn_primary{
+    border-radius: 5px;
+background: #FD6E0A;
+}
