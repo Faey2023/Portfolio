@@ -126,7 +126,7 @@ line-height: 30px;
 .skill-container{
     display: flex;
 }
-#logo{
+.logo{
     width: 44px;
 height: 44px;
 }
@@ -154,4 +154,21 @@ margin-bottom: 10px;
 .button-cv{
     text-align: center;
     margin-top: 50px;
+}
+footer{
+    display:flex;
+    justify-content: space-around;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+.box{
+    width: 461px;
+height: 64px;
+margin-bottom: 24px;
+border-color: white;
+}
+.bo{
+    width: 461px;
+height: 180px;
+border-color: white;
 }
